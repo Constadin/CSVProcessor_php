@@ -1,5 +1,5 @@
 //*
-Περιβάλλοντος Ανάπτυξης
+Περιβάλλον Ανάπτυξης
 Visual Studio Code
 PHP Server v3.0.2
 PHP Intelephense
