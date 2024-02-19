@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(255, 255, 255, 0.84);
+}
+
+.title-table{
+    
+    background-color: white;
+    text-align: center;
+    padding: 15px;
+    color:rgb(142, 44, 6);
+}
+
+table {
+    width: 90%;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: white;
+    margin: 0px auto;
+}
+
+table tr th, table tr td {
+    padding: 5px;
+    border: 2px #bababa solid;
+    font-size: 1rem;
+}
+
+select{
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 10px;
+    background-color:rgba(0, 255, 255, 0.180);
+    
+}
+
+input[type="text"] {
+    padding: 10px; /* Ορίζεται το padding σε 10 pixels */
+}
+
+button{
+    padding: 6px;
+    border-radius: 5px;
+    background-color: rgb(238, 223, 13);
+    box-shadow: 1px 0px 3px rgba(0, 0, 0, 0.794);
+}
+
+button:hover{
+background-color: rgb(35, 252, 93);
+}
+
+button:active{
+    background-color: rgb(252, 35, 35);
+    color: azure;
+}
+
+.single-data-tr:hover{
+
+    background-color: rgba(0, 0, 255, 0.133);
+}
+.all-data-tr:hover{
+    background-color: rgba(0, 0, 255, 0.133);
+}
