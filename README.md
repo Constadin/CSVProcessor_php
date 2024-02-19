@@ -1,4 +1,8 @@
 //*
+# Output
+
+![1708361924442](https://github.com/Constadin/CSVProcessor_php/assets/114903866/2c42e445-8960-4106-b9b5-1de2567f41a7)
+
 Περιβάλλον Ανάπτυξης
 Visual Studio Code
 PHP Server v3.0.2
@@ -39,6 +43,7 @@ public > index.php
 
 Μετά το πάτημα του κουμπιού "Create SQL", θα δημιουργηθεί ένα SQL script αρχείο με όλα τα δεδομένα που περιέχει το αρχείο "allData.csv". Αυτό το script μπορεί ο χρήστης να το εισάγει σε κάποιο εργαλείο βάσης δεδομένων, όπως το phpMyAdmin ή το MySQL Workbench, για να δημιουργήσει τη βάση δεδομένων και τον αντίστοιχο πίνακα και να εισάγει τα δεδομένα από το αρχείο CSV στη βάση του.
 
+![code](https://github.com/Constadin/CSVProcessor_php/assets/114903866/3c3bae95-9bf0-4492-ab48-37055009e576)
 
 
 //*App.php
